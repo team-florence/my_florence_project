@@ -1,16 +1,5 @@
 # my_florence_project
 
-A new Flutter project.
-
+Flutter code test for Flutter role at Florence.
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Please clone and run the project. It's a simple TODO app that fetches data from https://jsonplaceholder.typicode.com/. There are some bugs which causes unwanted behaviour and crashes, and there are some (in our view) bad coding practices. Please have a look, identify places where the code could be improved, any bugs and offer any solutions if you can. There is no need to write code solutions unless it is the easiest way to make your point.
