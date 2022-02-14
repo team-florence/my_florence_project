@@ -1,4 +1,4 @@
-# my_florence_project
+# Florence Code test: TODO app
 
 Flutter code test for Flutter role at Florence.
 ## Getting Started
